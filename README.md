@@ -2,7 +2,7 @@
 
 Program:Amazing World of GumBall (State Machine)
 
-Coder/Author:MatthewSides
+MatthewSides
 
 ### Overview
 State-Machine based on the seperate states a gumball machine intergrates into its system, constructed in visual studios using C++ as the primary language of choice.
