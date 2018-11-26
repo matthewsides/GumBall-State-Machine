@@ -1,6 +1,7 @@
 ## GumBall-State-Machine
 
 Program:Amazing World of GumBall (State Machine)
+
 Coder/Author:MatthewSides
 
 ### Overview
